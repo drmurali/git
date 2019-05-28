@@ -1,0 +1,88 @@
+    1  ls
+    2  ls
+    3  pwd
+    4  cd desktop
+    5  ls
+    6  mkdir jntua-svce-psp
+    7  cd jntua-svce-psp
+    8  cd..
+    9  cd..
+   10  ls
+   11  pwd
+   12  ls
+   13  ..
+   14  ls
+   15  cd..
+   16  cdexit
+   17  cdexit
+   18  cd/
+   19  pwd
+   20  cd..
+   21  ls
+   22  help
+   23  command
+   24  eval
+   25  help eval
+   26  eval(9+9)
+   27  help
+   28  echo "murali Krishna"
+   29  help echo
+   30  cd jntua-svce-psp
+   31  cd desktop
+   32  ls
+   33  ls
+   34  ls
+   35  cd Desktop/
+   36  cd jntua-svce-psp/
+   37  pwd
+   38  cls
+   39  mkdir git
+   40  cd git
+   41  pwd
+   42  git --version
+   43  clear screen
+   44  git --help
+   45  git config --list
+   46* 
+   47  git config user.name
+   48  git config --list
+   49  git config --global user.name 'Dr S Murali Krishna'
+   50  git config --list
+   51  git init
+   52  ls
+   53  ls -a
+   54  cd .git/
+   55  cd .git
+   56  cd .git
+   57  cd .git/
+   58  cd ./ ../ .git/
+   59  ls
+   60  cd ..
+   61  ls -a
+   62  git status
+   63  touch data.txt
+   64  pwd
+   65  ls
+   66  git status
+   67  ls
+   68  git add data.txt
+   69  git status
+   70  git commit -m 'initial commit'
+   71  ls
+   72  git log
+   73  echo 'data in line 1'>data.text
+   74  cat data
+   75  cat data.txt
+   76  echo 'data in line 1'>data.text
+   77  git add data.txt
+   78  git status
+   79  echo 'data in line 2'>> data.txt
+   80  git status
+   81  git add data.txt
+   82  git commit -m 'data file modified'
+   83  git status
+   84  git log
+   85  git fetch\
+   86  git fetch
+   87  history
+   88  history>help28-05-2019
